@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hola    soy Lautaro  ✨ </h1> 
+<br>
+<h2>Sobre mi </h2>
+<!--Intro start-->
 
-<!--
-**Lauta-cast/Lauta-cast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+🎓 Actual Estudiante en 1ro EMS
+  
+💻 Sin experiencia laboral, aún, pero con experiencia de trabajos en equipo en proyectos anuales
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Intro end-->
+  </p>
+<br>
+
+<h2 >Tecnologías conocidas👨</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,godot,eclipse,python,js&perline=12" />
+  </a>
+</p>
+<br>
+<!-------------------------->
+
+
+</p>        
+<!--- stats (end) -->
