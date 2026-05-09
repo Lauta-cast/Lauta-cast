@@ -13,7 +13,7 @@
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨</h2>
+<h3 >Tecnologías conocidas </h3>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
