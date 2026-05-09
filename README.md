@@ -17,7 +17,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,godot,eclipse,python,js&perline=12" />
+    <img src="https://skillicons.dev/icons?i=godot,vscode,python,js,eclipse,notion,discord&perline=12" />
   </a>
 </p>
 <br>
