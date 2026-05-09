@@ -1,4 +1,4 @@
-<h1 align="center">Hola    soy Lautaro  ✨ </h1> 
+<h1 align="center">Hola,    soy Lautaro   </h1> 
 <br>
 <h2>Sobre mi </h2>
 <!--Intro start-->
